@@ -1,0 +1,14 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --cov"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tap": "^12.1.0"
+  }
+}
