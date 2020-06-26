@@ -1,6 +1,6 @@
 # UAW-test
 
-Ejemplo donde se ejecutan pruebas ha algunas funciones (En este ejemplo se hacen pruebas al archivo funciones.js)
+Ejemplo donde se ejecutan pruebas a algunas funciones (En este ejemplo se hacen pruebas al archivo funciones.js)
 
 ## Requerimentos/dependencias
 * [NodeJS](https://nodejs.org/en/)
